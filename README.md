@@ -13,3 +13,5 @@
     without having to think to hard about it.
 
 ## screenshot
+
+![Screenshot](./assets/Screenshot%202023-11-06%20165602.png)
